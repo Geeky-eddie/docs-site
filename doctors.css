@@ -112,7 +112,7 @@
   
   /*  Navbar  */
   .navbar {
-    position: relative;
+    position: absolute;
     width: 100%;
     z-index: 999;
     padding: 30px 0;
